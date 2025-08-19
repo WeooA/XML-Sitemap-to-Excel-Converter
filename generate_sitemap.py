@@ -14,7 +14,7 @@ class SitemapFormat:
 # Common sitemap formats
 SITEMAP_FORMATS = [
     SitemapFormat("xml-sitemaps.com", "ul.level-0", "lhead", "level-", 
-                  ["– Top Treasures"]),
+                  ["– Website Name"]),
     SitemapFormat("standard", "ul.sitemap", "section", "level",
                   ["- Home", "| Site Map"]),
     SitemapFormat("wordpress", "ul#sitemap", "heading", "depth"),
