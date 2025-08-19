@@ -79,4 +79,4 @@ If you encounter issues:
 
 ## License
 
-MIT License - Feel free to use and modify as needed.
+Feel free to use and modify as needed.
